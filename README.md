@@ -1,1 +1,1 @@
-# Data-Science-course-by-miracl6
+# Решение задач курса "Погружение в Data Science и машинное обучения с нуля" от Анастасии @miracl6
