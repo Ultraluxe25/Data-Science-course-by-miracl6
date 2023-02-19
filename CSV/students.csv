@@ -1,0 +1,40 @@
+id,student,subject,score,pass
+111,Kolya,physics,90,True
+112,Sasha,physics,93,True
+113,Misha,deep learning,82,True
+114,Sasha,math,69,True
+115,Mariya,physics,69,True
+116,Misha,physics,69,True
+117,Misha,probability theory,70,True
+118,Mariya,data science,64,True
+119,Mariya,probability theory,90,True
+120,Katya,python,73,True
+121,Sasha,probability theory,65,True
+122,Kolya,data science,82,True
+123,Mariya,math,55,False
+124,Mariya,statistics,94,True
+125,Misha,python,79,True
+126,Sasha,data science,90,True
+127,Kolya,math,78,True
+128,Sasha,deep learning,86,True
+129,Mariya,deep learning,84,True
+130,Mira,statistics,69,True
+131,Katya,probability theory,91,True
+132,Katya,deep learning,68,True
+133,Kolya,deep learning,76,True
+134,Sasha,python,63,True
+135,Katya,data science,86,True
+136,Mira,physics,58,False
+137,Kolya,probability theory,61,True
+138,Katya,math,63,True
+139,Katya,statistics,76,True
+140,Mira,probability theory,78,True
+141,Mira,deep learning,84,True
+142,Misha,data science,56,False
+143,Kolya,python,89,True
+144,Misha,math,96,True
+145,Mira,python,56,False
+146,Katya,physics,63,True
+147,Mira,data science,56,False
+148,Sasha,statistics,93,True
+149,Kolya,statistics,60,False
